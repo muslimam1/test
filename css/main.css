@@ -1,0 +1,71 @@
+.red-card{
+    border-radius: 10px;
+    background-color: #ff4f52;
+    width: 263px;
+    height: 370px;
+    text-align: center;
+}
+.red-card_title{
+    color: #ffc4c9;
+}
+.red-card_text{
+    color: white;
+}
+
+.black-card{
+    border-radius: 10px;
+    background-color: #262D33;
+    width: 263px;
+    height: 370px;
+    text-align: center;
+}
+.black-card_title{
+    color: #939699;
+}
+.black-card_text{
+    color:white;
+}
+
+.green-card{
+    border-radius: 10px;
+    background-color: #3DC47E;
+    width: 263px;
+    height: 370px;
+    text-align: center;
+}
+.green-card_title{
+    color: #D0F7C6;
+}
+.green-card_text{
+    color:white;
+}
+.yellow-card{
+    background-color:  #FFD980;
+    width: 263px;
+    height: 370px;
+}
+
+.yellow-card_write{
+    color: #F78316;
+    text-decoration: dashed;
+}
+.yellow-card_text{
+    color: #262D33;
+    text-align: center;
+}
+.yellow-card_title{
+    color:#F78316;
+    text-align:end;
+}
+.abe-card{
+    background-color: #4267B2;
+    width: 263px;
+    height: 370px;
+}
+.abe-card_title{
+    color:  #BBC6FF;
+}
+.abe-card_text{
+    color:  #FFFFFF;
+}
+
